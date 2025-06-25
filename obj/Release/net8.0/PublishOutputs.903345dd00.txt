@@ -1,0 +1,7 @@
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\testingfingerprint.exe
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\testingfingerprint.dll
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\testingfingerprint.deps.json
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\testingfingerprint.runtimeconfig.json
+C:\Users\Pramodya\source\repos\testingfingerprint\testingfingerprint\obj\Release\net8.0\PubTmp\Out\testingfingerprint.pdb

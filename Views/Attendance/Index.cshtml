@@ -1,0 +1,27 @@
+﻿// testingfingerprint/Views/Attendance/Index.cshtml
+@model List<testingfingerprint.Services.AttendanceRecord> // updated model.
+
+<h1>Attendance Records</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Date/Time</th>
+            <th>Verify Mode</th>
+            <th>In/Out Mode</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.UserId</td>
+
+                <td>@record.DateTime</td>
+                <td>@record.VerifyMode</td>
+                <td>@record.InOutMode</td>
+            </tr>
+        }
+    </tbody>
+</table>

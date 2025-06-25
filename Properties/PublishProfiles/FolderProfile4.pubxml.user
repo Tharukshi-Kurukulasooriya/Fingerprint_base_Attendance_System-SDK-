@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish\fingerprintapp</_PublishTargetUrl>
+    <History>True|2025-03-19T08:09:03.5998692Z||;True|2025-03-19T11:01:18.9636329+05:30||;True|2025-03-19T10:14:54.0277207+05:30||;True|2025-03-18T12:06:22.8158486+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
