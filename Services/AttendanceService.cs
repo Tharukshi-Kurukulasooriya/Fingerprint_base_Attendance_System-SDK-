@@ -12,14 +12,17 @@ namespace testingfingerprint.Services
 
     public class AttendanceService : IAttendanceService
     {
-        private readonly string ipAddress = "10.84.172.201";
+        //add ip address here
+        private readonly string ipAddress = "";
         private readonly int port = 4370;
            
         public List<AttendanceRecord> FetchAttendance()
         {
             List<AttendanceRecord> attendanceList = new();
-            //CZKEM axCZKEM = new();
-              CZKEM axCZKEM = new CZKEM();
+            // NOTE: Fingerprint SDK integration code is removed for privacy.
+// Please add your own SDK here based on the fingerprint device you are using.
+// Implement the device connection and attendance data fetching accordingly.
+
 
 
 
